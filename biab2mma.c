@@ -5,8 +5,11 @@
 */
 #include <stdio.h>
 
-main () {
+extern int biabread();
+
+int main (int argc, char *argv[]) {
 
 	printf ("Hello World\n");
-
+	biabread();
+	return 0;
 }

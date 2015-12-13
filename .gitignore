@@ -1,2 +1,4 @@
 biabconverter-0.6.8/
 BiaB-Files
+*.o
+biab2mma
